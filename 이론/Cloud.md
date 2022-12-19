@@ -65,11 +65,11 @@
 
 # 어플리케이션의 구성
 
-어플리케이션 &rarr;
-OS: Window/Linux &rarr;
-Computing: CPU + RAM &rarr;
-Storage: HDD/SDD &rarr;
-Network: 랜카드/랜선
+Network: 랜카드/랜선 &rarr; 
+Storage: HDD/SDD &rarr; 
+Computing: CPU + RAM &rarr; 
+OS: Window/Linux &rarr; 
+어플리케이션
 
 # 클라우드의 컴퓨팅의 유형
 
@@ -126,3 +126,4 @@ Network: 랜카드/랜선
     - 폐쇄형과 공개형의 혼합
     - 폐쇄형에서 공개형으로 전환하는 과도기에 사용
     - 혹은 폐쇄형의 백업으로 사용
+
